@@ -1,1 +1,2 @@
-# odin-recipes
+This was a fun project that i struggled with just a little bit but
+I figured it out. I had trouble with linking the recipe web pages in my index.file but I figured it out by typing out the file name that the html recipe file is in the following up the name of the file.
